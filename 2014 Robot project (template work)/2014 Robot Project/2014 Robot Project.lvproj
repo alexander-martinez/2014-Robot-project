@@ -134,7 +134,7 @@ DirectoryIndex index.htm
 		<Item Name="Shifter control.vi" Type="VI" URL="../Shifter control.vi"/>
 		<Item Name="Motor drive.vi" Type="VI" URL="../Motor drive.vi"/>
 		<Item Name="Networktable comms.vi" Type="VI" URL="../Networktable comms.vi"/>
-		<Item Name="ButtonLayoutDriveJoystick.ctl" Type="VI" URL="../../../2014 Student code/Alexander Martinez the average joe/FTC/ButtonLayoutDriveJoystick.ctl"/>
+		<Item Name="ButtonLayoutDriveJoystick.ctl" Type="VI" URL="../ButtonLayoutDriveJoystick.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="WPI_JoystickDeviceEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Joystick/WPI_JoystickDeviceEnum.ctl"/>
@@ -592,10 +592,6 @@ DirectoryIndex index.htm
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Robot Global ref.vi" Type="VI" URL="../Robot Global ref.vi"/>
-			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
-			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
-			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
-			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
